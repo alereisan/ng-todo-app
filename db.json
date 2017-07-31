@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "title": "Clean inbox",
+      "complete": false,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "title": "Make restaurant reservation",
+      "complete": false
+    },
+    {
+      "title": "Improve Angular 4 Skills",
+      "complete": false,
+      "id": 4
+    },
+    {
+      "title": "Improve React.js Skills",
+      "complete": false,
+      "id": 5
+    },
+    {
+      "title": "Learn Angular2/4 Routing",
+      "complete": false,
+      "id": 6
+    },
+    {
+      "title": "Get up before 8AM",
+      "complete": true,
+      "id": 7
+    }
+  ]
+}
